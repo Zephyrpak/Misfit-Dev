@@ -8,7 +8,7 @@
   - type: Hunger
   - type: Thirst
   # - type: MessyDrinker # Misfit - Removed messy drinker. Goofy gimmick.
-    spillChance: 0.33
+    # spillChance: 0.33
   - type: Icon
     sprite: _Misfit/Mobs/Species/Vulpkanin/parts.rsi # Misfit - Change to Paradise based sprites
     state: full
